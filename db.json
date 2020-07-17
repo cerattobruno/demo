@@ -1,12 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "restaurants": [
+    { "id": 1, "name": "Resto 1", description:"Resto 1 description", location:"Resto 1 location", shipping_price:"30" , shipping_time:"60"},
+    { "id": 2, "name": "Resto 2", description:"Resto 2 description", location:"Resto 2 location", shipping_price:"32" , shipping_time:"62"},
+    { "id": 3, "name": "Resto 3", description:"Resto 3 description", location:"Resto 3 location", shipping_price:"33" , shipping_time:"63"},
+    { "id": 4, "name": "Resto 4", description:"Resto 4 description", location:"Resto 4 location", shipping_price:"34" , shipping_time:"64"},
+    { "id": 5, "name": "Resto 5", description:"Resto 5 description", location:"Resto 5 location", shipping_price:"35" , shipping_time:"65"},
+    { "id": 6, "name": "Resto 6", description:"Resto 6 description", location:"Resto 6 location", shipping_price:"36" , shipping_time:"66"}    
   ],
   "profile": {
     "name": "typicode"
